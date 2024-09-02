@@ -1,0 +1,46 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 3,
+    "fluxVents": 50,
+    "goalVariant": false,
+    "hullId": "thog_reclaimer",
+    "hullMods": [
+        "targetingunit"
+    ],
+    "quality": 0.0,
+    "variantId": "thog_reclaimer_fire_support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "mark9"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "hydra"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavyac",
+                "WS 003": "heavyac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "flak",
+                "WS 004": "flak",
+                "WS 007": "vulcan",
+                "WS 006": "vulcan"
+            }
+        }
+    ]
+}
