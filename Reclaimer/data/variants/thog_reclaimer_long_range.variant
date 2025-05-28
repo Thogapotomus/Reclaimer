@@ -1,0 +1,52 @@
+{
+    "displayName": "Long Range",
+    "fluxCapacitors": 0,
+    "fluxVents": 23,
+    "goalVariant": false,
+    "hullId": "thog_reclaimer",
+    "hullMods": [
+        "targetingunit",
+        "eccm",
+        "converted_hangar"
+    ],
+    "quality": 0.0,
+    "variantId": "thog_reclaimer_long_range",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "pilum_large"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pilum_large"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavyac",
+                "WS 002": "heavyac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "flak",
+                "WS 005": "flak",
+                "WS 007": "vulcan",
+                "WS 006": "vulcan"
+            }
+        }
+    ],
+    "wings": [
+        "wasp_wing",
+        "wasp_wing"
+    ]
+}

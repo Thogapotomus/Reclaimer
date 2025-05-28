@@ -1,0 +1,53 @@
+{
+    "displayName": "Close Defense",
+    "fluxCapacitors": 23,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "thog_reclaimer",
+    "hullMods": [
+        "targetingunit",
+        "pointdefenseai"
+    ],
+    "quality": 0.0,
+    "variantId": "thog_reclaimer_close_defense",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "guardian"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "locust"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavymortar"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavyac"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "flak",
+                "WS 004": "flak",
+                "WS 007": "vulcan",
+                "WS 006": "vulcan"
+            }
+        }
+    ]
+}

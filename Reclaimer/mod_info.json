@@ -1,0 +1,9 @@
+{
+    "id": "thog_reclaimer",
+    "name": "Reclaimer",
+    "author": "Thogapotomus",
+    "utility": "true",
+    "version": "1.0",
+    "description": "Adds new ship",
+    "gameVersion": "0.98a-RC5"
+}

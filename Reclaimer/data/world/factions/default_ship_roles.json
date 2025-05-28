@@ -1,0 +1,9 @@
+{
+	"combatFreighterLarge":{
+		"thog_reclaimer_close_defense":2,
+		"thog_reclaimer_elite":2,
+		"thog_reclaimer_fire_support":3,
+		"thog_reclaimer_long_range":3,
+		"fallback":{"combatFreighterMedium":1},
+	},
+}
