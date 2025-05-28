@@ -1,11 +1,12 @@
 {
     "displayName": "Elite",
-    "fluxCapacitors": 15,
-    "fluxVents": 30,
+    "fluxCapacitors": 0,
+    "fluxVents": 26,
     "goalVariant": false,
     "hullId": "thog_reclaimer",
     "hullMods": [
-        "targetingunit"
+        "targetingunit",
+        "converted_hangar"
     ],
     "quality": 0.0,
     "variantId": "thog_reclaimer_elite",
@@ -42,5 +43,9 @@
                 "WS 007": "vulcan"
             }
         }
+    ],
+    "wings": [
+        "warthog_wing",
+        "warthog_wing"
     ]
 }

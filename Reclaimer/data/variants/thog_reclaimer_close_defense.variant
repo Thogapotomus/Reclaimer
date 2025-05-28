@@ -1,12 +1,13 @@
 {
     "displayName": "Close Defense",
-    "fluxCapacitors": 23,
-    "fluxVents": 20,
+    "fluxCapacitors": 0,
+    "fluxVents": 38,
     "goalVariant": false,
     "hullId": "thog_reclaimer",
     "hullMods": [
         "targetingunit",
-        "pointdefenseai"
+        "pointdefenseai",
+        "converted_hangar"
     ],
     "quality": 0.0,
     "variantId": "thog_reclaimer_close_defense",
@@ -49,5 +50,9 @@
                 "WS 006": "vulcan"
             }
         }
+    ],
+    "wings": [
+        "wasp_wing",
+        "wasp_wing"
     ]
 }

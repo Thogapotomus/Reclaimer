@@ -1,7 +1,7 @@
 {
     "displayName": "Long Range",
     "fluxCapacitors": 0,
-    "fluxVents": 23,
+    "fluxVents": 28,
     "goalVariant": false,
     "hullId": "thog_reclaimer",
     "hullMods": [
@@ -46,7 +46,7 @@
         }
     ],
     "wings": [
-        "wasp_wing",
-        "wasp_wing"
+        "thunder_wing",
+        "thunder_wing"
     ]
 }

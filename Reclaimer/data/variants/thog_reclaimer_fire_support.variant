@@ -1,11 +1,12 @@
 {
     "displayName": "Fire Support",
-    "fluxCapacitors": 3,
-    "fluxVents": 50,
+    "fluxCapacitors": 0,
+    "fluxVents": 46,
     "goalVariant": false,
     "hullId": "thog_reclaimer",
     "hullMods": [
-        "targetingunit"
+        "targetingunit",
+        "converted_hangar"
     ],
     "quality": 0.0,
     "variantId": "thog_reclaimer_fire_support",
@@ -42,5 +43,9 @@
                 "WS 006": "vulcan"
             }
         }
+    ],
+    "wings": [
+        "gladius_wing",
+        "gladius_wing"
     ]
 }
